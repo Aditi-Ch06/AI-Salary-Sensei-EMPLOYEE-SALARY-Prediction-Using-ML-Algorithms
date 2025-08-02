@@ -114,7 +114,7 @@ PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
 pytz==2024.2
 PyWavelets==1.7.0
-pywin32==307
+# pywin32==307
 PyYAML==6.0.2
 pyzmq==26.2.0
 referencing==0.35.1
