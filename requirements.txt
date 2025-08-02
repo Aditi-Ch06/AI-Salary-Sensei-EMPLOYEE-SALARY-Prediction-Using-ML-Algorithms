@@ -170,7 +170,7 @@
 
 pandas
 matplotlib
-scikit-learn
+scikit-learn==1.5.2
 joblib
 streamlit
 gunicorn
