@@ -173,3 +173,4 @@ matplotlib
 scikit-learn
 joblib
 streamlit
+gunicorn
