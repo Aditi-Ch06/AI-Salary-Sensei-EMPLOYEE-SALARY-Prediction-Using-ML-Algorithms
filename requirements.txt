@@ -45,7 +45,7 @@ h2==3.2.0
 h5py==3.12.1
 hpack==3.0.0
 hstspreload==2024.12.1
-htmlmin==0.1.12
+# htmlmin==0.1.12
 httpcore==0.9.1
 httpx==0.13.3
 huggingface-hub==0.27.1
